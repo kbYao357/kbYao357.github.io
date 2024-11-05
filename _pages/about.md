@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a fourth-year undergraduate student at [the School of Cyber Science and Technology, Sun Yat-sen University](https://scst.sysu.edu.cn/index.htm). My research interests include computer vision, artificial intelligence security. 
 
-I am a fourth-year undergraduate student at the School of Cybersecurity, Sun Yat-sen University. My research interests include computer vision, artificial intelligence security. 
+I am fortunate to be guided by Associate Professor [Guanying Chen](https://guanyingc.github.io/) and Associate Professor [Lei Xue](https://cslxue.github.io) from the School of Cybersecurity, Sun Yat-sen University. 
 
-I am fortunate to be guided by Associate Professor Chen Guanying and Associate Professor Xue Lei from the School of Cybersecurity, Sun Yat-sen University. 
-
-You can view my CV here.
+Email: yaokb@mail2.sysu.edu.cn
+Wechat: 2375705896
 
 A data-driven personal website
 ======
