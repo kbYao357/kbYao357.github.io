@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a fourth-year undergraduate student at [the School of Cyber Science and Technology, Sun Yat-sen University](https://scst.sysu.edu.cn/index.htm). My research interests include computer vision, artificial intelligence security. 
 
