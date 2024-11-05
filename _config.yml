@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kunbin Yao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen, China"
   employer         : "Sun Yat-sen University"
   uri              : # URL
-  email            : "yaokb@mail2 .sysu .edu .cn" 
+  email            : "yaokb@mail2.sysu.edu.cn" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
